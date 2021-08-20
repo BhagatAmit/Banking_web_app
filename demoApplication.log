@@ -1,0 +1,21 @@
+
+[main] 2021-07-30 16:16:51 INFO  BankingMain  - Welcome to Engineer's Bank
+[main] 2021-07-30 16:16:51 INFO  BankingMain  - ==================================
+[main] 2021-07-30 16:16:51 INFO  BankingMain  - 
+Bank Menu
+[main] 2021-07-30 16:16:51 INFO  BankingMain  - 1)Login
+[main] 2021-07-30 16:16:51 INFO  BankingMain  - 2)Register as a Customer
+[main] 2021-07-30 16:16:51 INFO  BankingMain  - 3)Forgot  Password
+[main] 2021-07-30 16:16:51 INFO  BankingMain  - 4)EXIT
+[main] 2021-07-30 16:16:51 INFO  BankingMain  - 
+Enter your Choice 1-3
+[main] 2021-07-30 16:17:04 INFO  BankingMain  - 
+1)Login as Employee
+[main] 2021-07-30 16:17:04 INFO  BankingMain  - 
+2)Login as Customer
+[main] 2021-07-30 16:17:04 INFO  BankingMain  - 
+Enter your Choice 1-2
+[main] 2021-07-30 16:17:07 INFO  BankingMain  - 
+Welcome to Customer Login Screen
+[main] 2021-07-30 16:17:07 INFO  BankingMain  - 
+ Enter Username:
