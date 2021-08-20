@@ -1,30 +1,30 @@
-# Banking_web_app
-This is an online based banking web application .
-**Technologies**
-Java
-Maven
-Postgresql
-JDBC
-Servlet
-Javascript
-Html5
-Css
-Bootstrap
+# Banking_web_app<br />
+This is an online based banking web application .<br />
+# Technologies<br />
+Java<br />
+Maven<br />
+Postgresql<br />
+JDBC<br />
+Servlet<br />
+Javascript<br />
+Html5<br />
+Css<br />
+Bootstrap<br />
 
-**Features**
-Client registration 
-Client account opening
-See balance after every transaction in the Transaction Report
-Client Deposit/Withdrawl Amount
-View Transaction
-System admin/employee managment modules
-Employee performs various operation on customers account
+# Features<br />
+Client registration <br />
+Client account opening<br />
+See balance after every transaction in the Transaction Report<br />
+Client Deposit/Withdrawl Amount<br />
+View Transaction<br />
+System admin/employee managment modules<br />
+Employee performs various operation on customers account<br />
 
-**Prerequisites**
-Be sure you have the following installed on your development machine:
+# Prerequisites<br />
+Be sure you have the following installed on your development machine:<br />
 
-JDK>=1.8
-SpringSuite 4
-Tomcat Server 9
-Postgresql
+JDK>=1.8<br />
+SpringSuite 4<br />
+Tomcat Server 9<br />
+Postgresql<br />
 
